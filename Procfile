@@ -1,1 +1,1 @@
-web:    java -cp target/classes:target/dependency/* WebGoat
+web:    java -cp target/classes:target/dependency/* Webgoat
